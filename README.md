@@ -1,2 +1,0 @@
-# manul-discord-bot
- 
